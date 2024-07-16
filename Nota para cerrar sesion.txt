@@ -1,0 +1,9 @@
+1. primero vamos a mostrar el nombre del usuario que esta accediendo
+ <div class="text-white bg-success p-2">
+   dentro de aqui mando a llamar  el nombre y y apellido
+      </div>
+
+2. agremaos sesion estar donde esta nuestro controlador
+   de igual manera ponemos sesion estar en el menu o todos los modulas que necesito
+
+ahora creamos nuevo controlador para cerrar sesion
